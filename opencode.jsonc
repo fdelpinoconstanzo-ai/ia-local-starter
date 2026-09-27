@@ -1,0 +1,4 @@
+{
+  "model": "ollama/qwen3:30b-a3b",
+  "small_model": "ollama/llama3.2"
+}
